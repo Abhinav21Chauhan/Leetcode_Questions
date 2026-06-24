@@ -8,9 +8,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0231-power-of-two) |
+## Array
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0078-subsets) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
