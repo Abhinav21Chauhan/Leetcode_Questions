@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0078-subsets) |
 | [0485-max-consecutive-ones](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0485-max-consecutive-ones) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Backtracking
 |  |
 | ------- |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+## Binary Search
+|  |
+| ------- |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+## Sorting
+|  |
+| ------- |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 <!---LeetCode Topics End-->
