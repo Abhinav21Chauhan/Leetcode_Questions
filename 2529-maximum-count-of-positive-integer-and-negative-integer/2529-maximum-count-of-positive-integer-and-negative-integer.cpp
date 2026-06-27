@@ -8,7 +8,7 @@ public:
         else if(nums[i]<0) neg++;
         else pos++;
        }
-       int x = max(neg, pos);
-       return x; 
+       return max(neg, pos);
+       
     }
 };
