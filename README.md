@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0231-power-of-two) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |
@@ -59,8 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Enumeration
+|  |
+| ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 <!---LeetCode Topics End-->
