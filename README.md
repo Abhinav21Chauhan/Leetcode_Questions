@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0031-next-permutation) |
 | [0078-subsets](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0485-max-consecutive-ones) |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
