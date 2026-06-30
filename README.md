@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0231-power-of-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2169-count-operations-to-obtain-zero) |
+| [2235-add-two-integers](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2469-convert-the-temperature) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3516-find-closest-person](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3516-find-closest-person) |
