@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0031-next-permutation) |
+| [0041-first-missing-positive](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0041-first-missing-positive) |
 | [0078-subsets](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0238-product-of-array-except-self) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
