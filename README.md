@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0485-max-consecutive-ones) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Enumeration
 |  |
