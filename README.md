@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2469-convert-the-temperature) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3516-find-closest-person](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3516-find-closest-person) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
 | ------- |
