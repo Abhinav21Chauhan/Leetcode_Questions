@@ -1,7 +1,7 @@
 class Solution {
 public:
     long long sumAndMultiply(int n) {
-      int p = 1;
+        int p = 1;
       int sum = 0;
       int x=0;
       while(n!=0){
