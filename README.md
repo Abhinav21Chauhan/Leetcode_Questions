@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0485-max-consecutive-ones) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1052-grumpy-bookstore-owner) |
 | [1402-reducing-dishes](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1402-reducing-dishes) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1480-running-sum-of-1d-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -155,5 +158,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1052-grumpy-bookstore-owner) |
 <!---LeetCode Topics End-->
