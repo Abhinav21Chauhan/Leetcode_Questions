@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3110-score-of-a-string](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3110-score-of-a-string) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3794-reverse-string-prefix](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3794-reverse-string-prefix) |
 ## Simulation
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0031-next-permutation) |
 | [0287-find-the-duplicate-number](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3794-reverse-string-prefix](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3794-reverse-string-prefix) |
 ## Graph Theory
 |  |
 | ------- |
