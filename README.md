@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3516-find-closest-person](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3516-find-closest-person) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3895-count-digit-appearances](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3895-count-digit-appearances) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3895-count-digit-appearances](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Backtracking
 |  |
