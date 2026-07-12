@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1052-grumpy-bookstore-owner) |
+| [1331-rank-transform-of-an-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-reducing-dishes](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1402-reducing-dishes) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1480-running-sum-of-1d-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0268-missing-number) |
+| [1331-rank-transform-of-an-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1402-reducing-dishes](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1402-reducing-dishes) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1331-rank-transform-of-an-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Enumeration
 |  |
