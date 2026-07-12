@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2469-convert-the-temperature) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3516-find-closest-person](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3516-find-closest-person) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3895-count-digit-appearances](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3895-count-digit-appearances) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3285-find-indices-of-stable-mountains](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3895-count-digit-appearances](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Backtracking
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Greedy
 |  |
 | ------- |
