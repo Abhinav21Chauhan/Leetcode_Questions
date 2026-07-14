@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-sum-of-variable-length-subarrays](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3668-restore-finishing-order](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3838-weighted-word-mapping) |
 | [3895-count-digit-appearances](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3731-find-missing-elements](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3668-restore-finishing-order](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
 | ------- |
