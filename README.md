@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2469-convert-the-temperature) |
+| [2614-prime-in-diagonal](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2614-prime-in-diagonal) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2614-prime-in-diagonal](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2614-prime-in-diagonal) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3285-find-indices-of-stable-mountains) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1572-matrix-diagonal-sum) |
+| [2614-prime-in-diagonal](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2614-prime-in-diagonal) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Prefix Sum
 |  |
@@ -220,5 +223,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2614-prime-in-diagonal](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2614-prime-in-diagonal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
