@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0412-fizz-buzz) |
+| [1688-count-of-matches-in-tournament](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2469-convert-the-temperature) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0412-fizz-buzz) |
+| [1688-count-of-matches-in-tournament](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1688-count-of-matches-in-tournament) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2169-count-operations-to-obtain-zero) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
