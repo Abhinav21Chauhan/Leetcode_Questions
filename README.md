@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0728-self-dividing-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2235-add-two-integers) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Recursion
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0342-power-of-four) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Array
 |  |
 | ------- |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1402-reducing-dishes](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1402-reducing-dishes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Hash Table
 |  |
@@ -236,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2614-prime-in-diagonal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Memoization
+|  |
+| ------- |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 <!---LeetCode Topics End-->
