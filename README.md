@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1688-count-of-matches-in-tournament) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2469-convert-the-temperature) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1572-matrix-diagonal-sum) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2614-prime-in-diagonal](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2614-prime-in-diagonal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
