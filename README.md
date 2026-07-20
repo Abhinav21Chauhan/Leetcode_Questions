@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3894-traffic-signal-color](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3895-count-digit-appearances) |
 ## Bit Manipulation
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3794-reverse-string-prefix](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3838-weighted-word-mapping) |
+| [3894-traffic-signal-color](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3838-weighted-word-mapping](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3894-traffic-signal-color](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3894-traffic-signal-color) |
 ## Binary Search
 |  |
 | ------- |
