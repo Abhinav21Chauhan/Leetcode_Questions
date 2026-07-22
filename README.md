@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1572-matrix-diagonal-sum) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1108-defanging-an-ip-address) |
 | [1446-consecutive-characters](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1446-consecutive-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3427-sum-of-variable-length-subarrays) |
