@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-consecutive-characters](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1446-consecutive-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2000-reverse-prefix-of-word](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0917-reverse-only-letters](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0917-reverse-only-letters) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [2000-reverse-prefix-of-word](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -263,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2974-minimum-number-game) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
