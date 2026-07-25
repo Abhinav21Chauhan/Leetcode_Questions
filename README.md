@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3110-score-of-a-string](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3110-score-of-a-string) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3340-check-balanced-string](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3340-check-balanced-string) |
 | [3794-reverse-string-prefix](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3894-traffic-signal-color) |
