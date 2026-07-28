@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2469-convert-the-temperature) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2614-prime-in-diagonal) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2614-prime-in-diagonal](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2614-prime-in-diagonal) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3668-restore-finishing-order](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3731-find-missing-elements) |
 ## Enumeration
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2614-prime-in-diagonal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
