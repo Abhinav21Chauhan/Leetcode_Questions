@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0412-fizz-buzz) |
+| [0650-2-keys-keyboard](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0650-2-keys-keyboard) |
 | [0728-self-dividing-numbers](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0728-self-dividing-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0650-2-keys-keyboard](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0650-2-keys-keyboard) |
 | [1402-reducing-dishes](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1402-reducing-dishes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
