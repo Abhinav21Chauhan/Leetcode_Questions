@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1052-grumpy-bookstore-owner) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1402-reducing-dishes](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0412-fizz-buzz) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1688-count-of-matches-in-tournament) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2169-count-operations-to-obtain-zero) |
