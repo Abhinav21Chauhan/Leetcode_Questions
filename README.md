@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1572-matrix-diagonal-sum](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1572-matrix-diagonal-sum) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0917-reverse-only-letters) |
 | [1108-defanging-an-ip-address](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1108-defanging-an-ip-address) |
 | [1446-consecutive-characters](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1446-consecutive-characters) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2000-reverse-prefix-of-word](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2000-reverse-prefix-of-word) |
