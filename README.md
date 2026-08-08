@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -331,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
