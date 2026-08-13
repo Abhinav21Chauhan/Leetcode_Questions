@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1052-grumpy-bookstore-owner) |
+| [1207-unique-number-of-occurrences](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1389-create-target-array-in-the-given-order) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1207-unique-number-of-occurrences](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
