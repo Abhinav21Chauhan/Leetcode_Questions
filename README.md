@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0137-single-number-ii) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1572-matrix-diagonal-sum) |
 | [2614-prime-in-diagonal](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2614-prime-in-diagonal) |
