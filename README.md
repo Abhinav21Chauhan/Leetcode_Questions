@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0917-reverse-only-letters) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -377,5 +378,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhinav21Chauhan/Leetcode_Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
